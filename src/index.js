@@ -1,1 +1,3 @@
-console.log('Test')
+import initializeWebsite from "./website";
+
+initializeWebsite();
